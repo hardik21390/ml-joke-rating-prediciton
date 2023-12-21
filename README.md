@@ -30,7 +30,7 @@ Used a seperate validation set of 100 jokes
   
 ## Technologies and Libraries Used
 
-- Programming Language: Python
+- Programming Language: Python, sklearn
 - Dataset: Jester Joke Dataset
 
 ## Repository Structure
